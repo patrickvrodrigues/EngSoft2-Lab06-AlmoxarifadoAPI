@@ -1,4 +1,4 @@
-package almoxarifado.modelo.builder;
+package almoxarifado.builder;
 
 import almoxarifado.modelo.Solicitante;
 

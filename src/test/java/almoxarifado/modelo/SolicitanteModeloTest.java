@@ -1,6 +1,6 @@
 package almoxarifado.modelo;
 
-import almoxarifado.modelo.builder.SolicitanteBuilder;
+import almoxarifado.builder.SolicitanteBuilder;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
