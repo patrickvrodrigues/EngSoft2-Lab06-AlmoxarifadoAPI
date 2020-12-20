@@ -1,4 +1,4 @@
-package almoxarifado.modelo;
+package almoxarifado.teste.modelo;
 
 public class Solicitante {
     private String nome;

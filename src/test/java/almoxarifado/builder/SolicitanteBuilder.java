@@ -1,6 +1,6 @@
 package almoxarifado.builder;
 
-import almoxarifado.modelo.Solicitante;
+import almoxarifado.teste.modelo.Solicitante;
 
 public class SolicitanteBuilder {
     private Solicitante solicitante;

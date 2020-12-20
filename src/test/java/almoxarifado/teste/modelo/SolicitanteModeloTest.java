@@ -1,4 +1,4 @@
-package almoxarifado.modelo;
+package almoxarifado.teste.modelo;
 
 import almoxarifado.builder.SolicitanteBuilder;
 import org.junit.Assert;
